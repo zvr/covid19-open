@@ -27,6 +27,9 @@
   - paper in arXiv: https://arxiv.org/abs/2003.10405
   - first lab tests already in a lab near Bergamo
 
+- E-Vent https://e-vent.mit.edu/
+  - MIT Emergency Ventilator Project
+
 
 ## DIY Masks
 
