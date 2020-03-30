@@ -22,3 +22,5 @@
 
 - [Open Source COVID19 Medical Supplies](https://docs.google.com/document/d/1-71FJTmI1Q1kjSDLP0EegMERjg_0kk_7UfaRE4r66Mg/preview#heading=h.6rcgzhjv3lfe)
 
+- [Covid19 platforms and Solutions](https://airtable.com/shrPm5L5I76Djdu9B/tbl6pY6HtSZvSE6rJ/viwbIjyehBIoKYYt1?blocks=bipjdZOhKwkQnH1tV)
+

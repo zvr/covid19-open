@@ -26,9 +26,13 @@
   - medRxiv preprint: https://www.medrxiv.org/content/10.1101/2020.03.24.20042234v1
   - paper in arXiv: https://arxiv.org/abs/2003.10405
   - first lab tests already in a lab near Bergamo
-
-- E-Vent https://e-vent.mit.edu/
-  - MIT Emergency Ventilator Project
+  
+- MIT Emergency Ventilator (E-Vent) Project https://e-vent.mit.edu/ 
+  - At the present time, the project  producing four sets of material:
+     - Minimum safe ventilator functionality based on clinical guidance
+     - Reference hardware design for meeting minimum clinical requirements
+     - Reference control strategies and electronics designs and supporting insights
+     - Results from testing in animal models
 
 
 ## DIY Masks
@@ -39,4 +43,4 @@
   - Home made masks are not as good as professional masks, but they have some efficiency
 
 - [info only] Best Materials for DIY Masks? https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/
-  - Cambridge University
+  - Cambridge University 
