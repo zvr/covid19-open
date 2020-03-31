@@ -2,6 +2,8 @@
 
 ## Ventilators
 
+https://en.wikipedia.org/wiki/Open-source_ventilator
+
 - Open Source Ventilator Project https://simulation.health.ufl.edu/technology-development/open-source-ventilator-project/
   - Open Source, Open Architecture Ventilator Engineering Design Specifications
   - Adult ventilator
@@ -33,6 +35,11 @@
      - Reference hardware design for meeting minimum clinical requirements
      - Reference control strategies and electronics designs and supporting insights
      - Results from testing in animal models
+
+- Coresponse https://www.coresponse.rwth-aachen.de/cms/~gqged/Coresponse/
+  - COvid-19 RESPirator OpeN SourcE
+  - 3D-Printable Simplified Ventilator
+  - RWTH Aachen University
 
 
 ## DIY Masks
