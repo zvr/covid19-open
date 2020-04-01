@@ -51,3 +51,15 @@ https://en.wikipedia.org/wiki/Open-source_ventilator
 
 - [info only] Best Materials for DIY Masks? https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/
   - Cambridge University 
+  
+## Face Shields
+  
+  - Proto Shield https://www.protohaven.org/proto-shield/
+    - Only requires laser cutting PETG sheets, plus minor manual labour
+    - Very detailed production/assembly instructions
+    - CC by-sa
+
+  - Prusa face shield https://www.prusa3d.com/covid19/
+    - 3D printed parts and PETG sheets
+    - Very solid development - field tested
+    
