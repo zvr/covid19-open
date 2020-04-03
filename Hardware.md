@@ -40,6 +40,9 @@ https://en.wikipedia.org/wiki/Open-source_ventilator
   - COvid-19 RESPirator OpeN SourcE
   - 3D-Printable Simplified Ventilator
   - RWTH Aachen University
+  
+- COVID-19 Ventilator Projects https://github.com/PubInv/covid19-vent-list
+  - An analyzed list of projects to make emergency ventilators in response to COVID-19, focusing on free-libre open source.
 
 
 ## DIY Masks
