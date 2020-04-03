@@ -24,3 +24,7 @@
 
 - [Covid19 platforms and Solutions](https://airtable.com/shrPm5L5I76Djdu9B/tbl6pY6HtSZvSE6rJ/viwbIjyehBIoKYYt1?blocks=bipjdZOhKwkQnH1tV)
 
+- [Helpcovid](https://github.com/bstarynk/helpcovid)
+  - a C++ web application (GPLv3+, Linux) to organize people helping other neighbours in Covid pandemics
+
+
