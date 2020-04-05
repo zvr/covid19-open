@@ -56,13 +56,17 @@ https://en.wikipedia.org/wiki/Open-source_ventilator
   - Cambridge University 
   
 ## Face Shields
-  
-  - Proto Shield https://www.protohaven.org/proto-shield/
-    - Only requires laser cutting PETG sheets, plus minor manual labour
-    - Very detailed production/assembly instructions
-    - CC by-sa
 
-  - Prusa face shield https://www.prusa3d.com/covid19/
-    - 3D printed parts and PETG sheets
-    - Very solid development - field tested
-    
+- Proto Shield https://www.protohaven.org/proto-shield/
+  - Only requires laser cutting PETG sheets, plus minor manual labour
+  - Very detailed production/assembly instructions
+  - CC by-sa
+
+- Prusa face shield https://www.prusa3d.com/covid19/
+  - 3D printed parts and PETG sheets
+  - Very solid development - field tested
+  
+- glia https://glia.org/
+  - High-quality low-cost open source medical hardware
+  - Face shiled, stethoscope, otoscope, tourniquet
+  - Gaza & Toronto
