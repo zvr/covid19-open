@@ -44,6 +44,33 @@ https://en.wikipedia.org/wiki/Open-source_ventilator
 1. COVID-19 Ventilator Projects https://github.com/PubInv/covid19-vent-list
    - An analyzed list of projects to make emergency ventilators in response to COVID-19, focusing on free-libre open source.
 
+1. COSV - Cam Open Source Ventilator https://hackaday.io/project/170507-cosv-cam-open-source-ventilator
+   - Mechanical solution with an ambu-bag, two pushers, one motor, and no gears
+
+1. Reesistencia https://gitlab.com/reesistencia/reespirator-doc
+   - Spain
+   - team has completed the design and pig testing
+   - they just released all files: PCB, software,mechanical...
+
+1. Ambovent https://github.com/AmboVent/AmboVent
+   - Israel
+   - team has released all the design files including Arduino control software
+
+1. VentilatorPAL https://freebreathing.org/
+
+1. Open Source Covid-19 Ventilator Canada https://open-source-covid-19-ventilator-canada.mn.co/ 
+
+1. ApolloBVM http://oedk.rice.edu/apollobvm/
+   - Automated Bag Valve Mask
+   - Rice University
+
+
+### Not open
+
+1. ~~Virgin Orbit~~
+
+1. ~~Tesla~~
+
 
 ## DIY Masks
 
