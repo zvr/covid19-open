@@ -64,6 +64,9 @@ https://en.wikipedia.org/wiki/Open-source_ventilator
    - Automated Bag Valve Mask
    - Rice University
 
+1. Prevail NY https://jmawireless.com/prevail-ny
+   - Emergency mechanical ventilation system
+   - JMA and Syracuse University
 
 ### Not open
 
