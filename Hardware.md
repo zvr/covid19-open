@@ -17,6 +17,7 @@ https://en.wikipedia.org/wiki/Open-source_ventilator
    - two versions: makers and mass industrial production
    - passed all hospital tests
    - waiting for approval of AEMPS (Agencia Española de Medicamentos y Productos Sanitarios)
+   - AmbuBag
 
 1. CoroVent https://www.corovent.com/
    - Open source medical ventilator
@@ -35,14 +36,12 @@ https://en.wikipedia.org/wiki/Open-source_ventilator
      - Reference hardware design for meeting minimum clinical requirements
      - Reference control strategies and electronics designs and supporting insights
      - Results from testing in animal models
+   - AmbuBag
 
 1. Coresponse https://www.coresponse.rwth-aachen.de/cms/~gqged/Coresponse/
    - COvid-19 RESPirator OpeN SourcE
    - 3D-Printable Simplified Ventilator
    - RWTH Aachen University
-
-1. COVID-19 Ventilator Projects https://github.com/PubInv/covid19-vent-list
-   - An analyzed list of projects to make emergency ventilators in response to COVID-19, focusing on free-libre open source.
 
 1. COSV - Cam Open Source Ventilator https://hackaday.io/project/170507-cosv-cam-open-source-ventilator
    - Mechanical solution with an ambu-bag, two pushers, one motor, and no gears
@@ -55,6 +54,7 @@ https://en.wikipedia.org/wiki/Open-source_ventilator
 1. Ambovent https://github.com/AmboVent/AmboVent
    - Israel
    - team has released all the design files including Arduino control software
+   - AmbuBag
 
 1. VentilatorPAL https://freebreathing.org/
 
@@ -63,16 +63,26 @@ https://en.wikipedia.org/wiki/Open-source_ventilator
 1. ApolloBVM http://oedk.rice.edu/apollobvm/
    - Automated Bag Valve Mask
    - Rice University
+   - AmbuBag
+   - code is GPL in repo: https://github.com/apollobvm/apollobvm; mechanical files are downloadable after registration
+   - Two Arduino Unos
+   - earlier doc: https://docs.google.com/document/d/1-DRXnVkJOlDCmvTzh-DgWDxeLSrZTiBYyH0ypzv8tNA/edit
 
 1. Prevail NY https://jmawireless.com/prevail-ny
    - Emergency mechanical ventilation system
    - JMA and Syracuse University
+   - AmbuBag
 
 ### Not open
 
 1. ~~Virgin Orbit~~
 
 1. ~~Tesla~~
+
+### Other lists
+
+1. COVID-19 Ventilator Projects https://github.com/PubInv/covid19-vent-list
+   - An analyzed list of projects to make emergency ventilators in response to COVID-19, focusing on free-libre open source.
 
 
 ## DIY Masks
@@ -81,10 +91,14 @@ https://en.wikipedia.org/wiki/Open-source_ventilator
    - Reusable DIY Cloth Mask with Disposable Middle Layer Filter
    - can even use piece of kitchen towel paper for filter (~N70)
    - Home made masks are not as good as professional masks, but they have some efficiency
+   - [info only] Best Materials for DIY Masks? https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/
+     - Cambridge University 
 
-1. [info only] Best Materials for DIY Masks? https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/
-   - Cambridge University 
-  
+1. Montana masks https://www.makethemasks.com/
+   - 3D printed,  highly effective filtration mask
+   - Can be sanitized and reused
+   - Assembly example: https://www.youtube.com/watch?v=FZG0-jWuxaA
+
 ## Face Shields
 
 1. Proto Shield https://www.protohaven.org/proto-shield/
