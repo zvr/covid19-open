@@ -274,6 +274,15 @@ https://en.wikipedia.org/wiki/Open-source_ventilator
    - Can be sanitized and reused
    - Assembly example: https://www.youtube.com/watch?v=FZG0-jWuxaA
 
+1. CIIRC RP95-3D https://www.rp95.cz/en/
+   - 3D printed
+   - Czech Institute of Informatics, Robotics and Cybernetics CTU (CIIRC CTU)
+
+1. BUTMASK–H2 half mask https://www.vutbr.cz/en/mask
+   - 3D printed
+   - Brno Uiversity of Technology
+
+
 ## Face Shields
 
 1. Proto Shield https://www.protohaven.org/proto-shield/
