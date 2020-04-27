@@ -1,6 +1,6 @@
 # covid19-open
 
-Δράσεις ανοιχτού κώδικα για την αντιμετώπιση των συνεπειων της πανδημίας(https://ellak.gr/wiki/index.php?title=%CE%94%CF%81%CE%AC%CF%83%CE%B5%CE%B9%CF%82_%CE%B1%CE%BD%CE%BF%CE%B9%CF%87%CF%84%CE%BF%CF%8D_%CE%BA%CF%8E%CE%B4%CE%B9%CE%BA%CE%B1_%CE%B3%CE%B9%CE%B1_%CF%84%CE%B7%CE%BD_%CE%B1%CE%BD%CF%84%CE%B9%CE%BC%CE%B5%CF%84%CF%8E%CF%80%CE%B9%CF%83%CE%B7_%CF%84%CF%89%CE%BD_%CF%83%CF%85%CE%BD%CE%B5%CF%80%CE%B5%CE%B9%CF%89%CE%BD_%CF%84%CE%B7%CF%82_%CF%80%CE%B1%CE%BD%CE%B4%CE%B7%CE%BC%CE%AF%CE%B1%CF%82).
+[Δράσεις ανοιχτού κώδικα για την αντιμετώπιση των συνεπειων της πανδημίας](https://ellak.gr/wiki/index.php?title=%CE%94%CF%81%CE%AC%CF%83%CE%B5%CE%B9%CF%82_%CE%B1%CE%BD%CE%BF%CE%B9%CF%87%CF%84%CE%BF%CF%8D_%CE%BA%CF%8E%CE%B4%CE%B9%CE%BA%CE%B1_%CE%B3%CE%B9%CE%B1_%CF%84%CE%B7%CE%BD_%CE%B1%CE%BD%CF%84%CE%B9%CE%BC%CE%B5%CF%84%CF%8E%CF%80%CE%B9%CF%83%CE%B7_%CF%84%CF%89%CE%BD_%CF%83%CF%85%CE%BD%CE%B5%CF%80%CE%B5%CE%B9%CF%89%CE%BD_%CF%84%CE%B7%CF%82_%CF%80%CE%B1%CE%BD%CE%B4%CE%B7%CE%BC%CE%AF%CE%B1%CF%82).
 
 Το παρόν αποθετήριο έχει σαν στόχους:
 
