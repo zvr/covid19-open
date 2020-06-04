@@ -7,14 +7,12 @@
   - Charité – Universitätsmedizin Berlin and Data4Life
   - MIT license
 
-# Contact Tracing Apps
+# NationalContact Tracing Apps
 
 Usually the link points to the "documentation" repository.
 Source repositories are under the same organization or pointed to by the documentation.
 
-## National
-
-1. EU
+## EU
 
 - Austria
   - STOPP CORONA
@@ -80,7 +78,7 @@ Source repositories are under the same organization or pointed to by the documen
   - created by Slovak volunteers and experts
   - based on https://github.com/CovidWorld
 
-2. Europe, non-EU
+## Europe, non-EU
 
 - Iceland
   - Rakning C-19
@@ -102,7 +100,7 @@ Source repositories are under the same organization or pointed to by the documen
   - developed by Palantir
   - not yet released; beta at https://github.com/NHSX
 
-3. non-Europe
+## non-Europe
 
 - India
   - Aarogya Setu
