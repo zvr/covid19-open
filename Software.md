@@ -57,6 +57,11 @@ Source repositories are under the same organization or pointed to by the documen
   - developed by Nextsense
   - probably _not_ Open Source
 
+- Ireland
+  - COVID Tracker
+  - developed by NearForm
+  - https://github.com/covidgreen
+
 - Italy
   - Immuni
   - developed by Bending Spoons
